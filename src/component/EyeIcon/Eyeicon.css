@@ -1,0 +1,9 @@
+.eye-icon{
+    position: relative;
+    top: -50px;
+    float: right;
+    right: 10px;
+    cursor: pointer;
+    border: none;
+    
+}
